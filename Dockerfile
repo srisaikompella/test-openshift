@@ -1,4 +1,4 @@
-FROM nginx
+FROM docker.io/nginx
 
 
 RUN apt update && apt update -y
