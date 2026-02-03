@@ -1,4 +1,4 @@
-FROM docker.io/library/nginx
+FROM kasisubbarayudu/hind-nginx
 
 
 RUN apt update && apt update -y
