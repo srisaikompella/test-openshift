@@ -2,7 +2,6 @@ FROM docker.io/nginx
 
 
 RUN apt update && apt update -y
-RUN sleep 31
 
 
 
