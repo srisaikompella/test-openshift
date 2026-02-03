@@ -5,4 +5,3 @@ FROM nginx
 
 
 
-RUN mkdir /hind && echo "I am hind" > /hind/new-file
